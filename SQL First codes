@@ -1,0 +1,3 @@
+SELECT band
+FROM albums
+WHERE ano = 1969
